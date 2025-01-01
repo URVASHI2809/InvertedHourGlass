@@ -14,8 +14,7 @@ public class InvertedHourGlass {
                     System.out.print(val + " ");
                     val--;
                 }
-
-                //work for spaces
+                    
                 for (int csp = 1; csp <= nsp; csp++) {
                     System.out.print("  ");
                 }
